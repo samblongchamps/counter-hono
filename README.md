@@ -32,13 +32,7 @@ npm run deploy
 
 ## Storage
 
-This application uses Cloudflare KV (Key-Value) storage, which is:
-
-- Globally distributed
-- Low latency
-- Highly available
-- Automatically backed up
-- Perfect for simple key-value storage like counters
+This application uses Cloudflare KV (Key-Value) storage.
 
 ## API Endpoints
 
