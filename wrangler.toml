@@ -1,0 +1,7 @@
+name = "simple-counter-api"
+main = "src/index.ts"
+compatibility_date = "2024-02-20"
+
+[[kv_namespaces]]
+binding = "COUNTER_KV"
+preview_id = "your-preview-kv-namespace-id"  # For development 
